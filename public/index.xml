@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Esteban David Gadea</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Esteban David Gadea</description>
+    <generator>Hugo -- 0.147.5</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;div class=&#34;profile-header&#34;&gt;
+  &lt;div class=&#34;profile-banner-wrapper&#34;&gt;
+    &lt;div class=&#34;banner-overlay&#34;&gt;
+      &lt;img src=&#34;http://localhost:1313/images/banner.jpg&#34; class=&#34;profile-banner&#34; alt=&#34;Banner&#34;&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+  &lt;img src=&#34;http://localhost:1313/images/profile.jpg&#34; class=&#34;profile-image&#34; alt=&#34;Profile&#34;&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+&lt;h2 id=&#34;esteban-david-gadea&#34;&gt;Esteban David Gadea&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;Postdoctoral Fellow at the University of Utah&lt;/em&gt;&lt;br&gt;
+&lt;em&gt;Computational Physical Chemist&lt;/em&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;I am a computational physical chemist working on &lt;strong&gt;multiscale modeling of electrochemical interfaces&lt;/strong&gt; for energy applications. My work integrates atomistic simulations, kinetic Monte Carlo, and statistical mechanics to understand:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Disordered catalysts&lt;/strong&gt; (e.g., high-entropy oxides)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Nanobubble formation and gas evolution&lt;/strong&gt; in confined electrochemical environments&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Membrane and ionomer effects&lt;/strong&gt; on performance and degradation&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The goal of my research is to connect molecular-level mechanisms to macroscopic behavior in electrocatalytic systems like water electrolysis and CO₂ reduction, contributing to the design of more efficient and durable energy devices.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Publications</title>
+      <link>http://localhost:1313/publications/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publications/</guid>
+      <description>&lt;h3 id=&#34;the-smallest-electrochemical-bubbles&#34;&gt;The Smallest Electrochemical Bubbles&lt;/h3&gt;
+&lt;p&gt;Esteban D. Gadea, Y. A. Perez Sirkin, Valeria Molinero, Damian A. Scherlis&lt;br&gt;
+&lt;em&gt;Proceedings of the National Academy of Sciences&lt;/em&gt;, 2024&lt;br&gt;
+&lt;a href=&#34;https://www.pnas.org/doi/abs/10.1073/pnas.2406956121&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;nanobubble-stability-and-formation&#34;&gt;Nanobubble Stability and Formation&lt;/h3&gt;
+&lt;p&gt;Esteban D. Gadea, Valeria Molinero, Damian A. Scherlis&lt;br&gt;
+&lt;em&gt;Nano Letters&lt;/em&gt;, 2023&lt;br&gt;
+&lt;a href=&#34;https://pubs.acs.org/doi/full/10.1021/acs.nanolett.3c02261&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

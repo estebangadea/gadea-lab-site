@@ -1,0 +1,35 @@
+baseURL = "https://gadea-lab.netlify.app/"
+languageCode = "en-us"
+title = "Esteban David Gadea"
+theme = "PaperMod"
+
+[params]
+  description = "Computational physical chemist | Multiscale modeling of electrochemical interfaces"
+  defaultTheme = "auto"
+  ShowReadingTime = false
+  ShowPostNavLinks = false
+  ShowCodeCopyButtons = true
+  ShowBreadCrumbs = false
+  ShowToc = false
+
+[params.assets]
+  customCSS = ["css/extended/custom.css"]
+
+[menu]
+
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about/"
+    weight = 1
+
+  [[menu.main]]
+    identifier = "publications"
+    name = "Publications"
+    url = "/publications/"
+    weight = 2
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
