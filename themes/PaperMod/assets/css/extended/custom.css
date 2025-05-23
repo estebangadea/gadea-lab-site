@@ -1,0 +1,92 @@
+.profile-header {
+  position: relative;
+  text-align: center;
+  margin-top: 0 !important;
+}
+
+/* Final nudge — kill spacing above banner */
+body,
+main{
+  margin-top: 0 !important;
+  padding-top: 0 !important;
+}
+
+
+/* Full-width banner that escapes the content wrapper */
+.profile-banner-wrapper {
+  width: 100vw;
+  margin-left: calc(-50vw + 50%);
+}
+
+/* Circular profile image over banner */
+.profile-image {
+  width: 240px;
+  height: 240px;
+  border-radius: 50% !important;
+  object-fit: cover;
+  border: 4px solid white;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);
+  position: absolute;
+  left: 17%;
+  bottom: -110px;
+  transform: translateX(-50%);
+  background-color: white;
+  z-index: 10;
+}
+
+/* Make the top nav bar fixed over the banner */
+header.header {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  background: rgba(0, 0, 0, 0.4);
+  z-index: 1000;
+}
+
+/* Prevent content from hiding behind the navbar */
+
+.banner-overlay {
+  position: relative;
+  width: 100%;
+  height: 450px;
+  overflow: hidden;
+}
+
+.banner-overlay::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 100%;
+  background: linear-gradient(to bottom, rgba(0, 0, 0, 0.5), transparent);
+  z-index: 1;
+}
+
+.profile-banner {
+  width: 100%;
+  height: 450px;
+  object-fit: cover;
+  display: block;
+  position: relative;
+  z-index: 0;
+}
+
+.about-content {
+  max-width: 720px;
+  margin: 0 auto;
+  padding: 0 1rem;
+  font-size: 1.05rem;
+  line-height: 1.6;
+}
+
+.about-content ul {
+  list-style-position: inside;
+  margin-left: 1.5rem;
+  padding-left: 0;
+}
+
+.about-content li {
+  margin-bottom: 0.5rem;
+}
