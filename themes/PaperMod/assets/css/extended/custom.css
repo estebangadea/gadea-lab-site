@@ -66,11 +66,9 @@ header.header {
 
 .profile-banner {
   width: 100%;
-  height: 450px;
+  max-height: 450px;
   object-fit: cover;
   display: block;
-  position: relative;
-  z-index: 0;
 }
 
 .about-content {
@@ -87,6 +85,36 @@ header.header {
   padding-left: 0;
 }
 
-.about-content li {
-  margin-bottom: 0.5rem;
+.about-content {
+  max-width: 720px;
+  margin: 0 auto;
+  padding: 0 1rem;
+  font-size: 1.05rem;
+  line-height: 1.6;
+  word-break: break-word;
+}
+
+.about-content a {
+  word-wrap: break-word;
+  overflow-wrap: break-word;
+}
+
+@media screen and (max-width: 600px) {
+  .profile-image {
+    width: 100px;
+    height: 100px;
+    bottom: -50px;
+  }
+
+  .profile-header {
+    margin-bottom: 4rem;
+  }
+
+  .about-content {
+    padding: 0 1rem;
+  }
+
+  .profile-banner-wrapper {
+    overflow: hidden;
+  }
 }
