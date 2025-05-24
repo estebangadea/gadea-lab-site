@@ -101,9 +101,10 @@ header.header {
 
 @media screen and (max-width: 600px) {
   .profile-image {
-    width: 200px;
-    height: 200px;
+    width: 240px;
+    height: 240px;
     bottom: -50px;
+    left: 50%
   }
 
   .profile-header {
