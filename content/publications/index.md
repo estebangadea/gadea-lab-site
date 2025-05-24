@@ -1,7 +1,7 @@
 ---
 title: ""
 ---
-<br>
+<div class="about-content">
 
 ## Selected Publications
 
@@ -37,3 +37,5 @@ _Journal of Physical Chemistry Letters_, 2020
 **Esteban D. Gadea**, C. M. Bustamante, T. N. Todorov, D. A. Scherlis  
 _Physical Review A_, 2021  
 [🔗 Link](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.105.042201)
+
+</div>
