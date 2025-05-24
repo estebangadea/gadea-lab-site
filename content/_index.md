@@ -10,6 +10,21 @@ layout: "home"
 _Postdoctoral Fellow at the University of Utah_  
 _Computational Physical Chemist_
 
+<div class="social-icons">
+  <a href="https://scholar.google.com/citations?user=gEx3iGUAAAAJ" target="_blank" rel="noopener">
+    <img src="/images/icons/scholar.svg" alt="Google Scholar">
+  </a>
+  <a href="https://www.linkedin.com/in/esteban-gadea-906bb0246" target="_blank" rel="noopener">
+    <img src="/images/icons/linkedin.svg" alt="LinkedIn">
+  </a>
+  <a href="https://github.com/estebangadea" target="_blank" rel="noopener">
+    <img src="/images/icons/github.svg" alt="GitHub">
+  </a>
+  <a href="https://orcid.org/0009-0009-9439-2335" target="_blank" rel="noopener">
+    <img src="/images/icons/orcid.svg" alt="ORCID">
+  </a>
+</div>
+
 ---
 
 I am a computational physical chemist working on **multiscale modeling of electrochemical interfaces** for energy applications. My work integrates atomistic simulations, kinetic Monte Carlo, and statistical mechanics to understand:
@@ -22,13 +37,7 @@ The goal of my research is to connect molecular-level mechanisms to macroscopic 
 
 ---
 
-## Links
-
-- [CV](/files/CV_Gadea.pdf)
-- [Google Scholar](https://scholar.google.com/citations?user=gEx3iGUAAAAJ)
-- [GitHub](https://github.com/estebangadea)
-- [LinkedIn](https://www.linkedin.com/in/esteban-gadea-906bb0246)
-- [ORCID](https://orcid.org/0009-0009-9439-2335)
+## [Download my CV!](/files/CV_Gadea.pdf)
 
 ---
 
