@@ -101,15 +101,13 @@ header.header {
 
 @media screen and (max-width: 600px) {
   .profile-image {
-    width: 240px;
-    height: 240px;
-    bottom: -50px;
+    width: 260px;
+    height: 260px;
+    bottom: -20px;
     left: 50%
   }
 
-  .profile-header {
-    margin-bottom: 4rem;
-  }
+
 
   .about-content {
     padding: 0 1rem;
