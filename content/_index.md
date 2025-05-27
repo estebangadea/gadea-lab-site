@@ -11,16 +11,20 @@ _Postdoctoral Fellow at the University of Utah_
 _Computational Physical Chemist_
 
 <div class="social-icons">
-  <a href="https://scholar.google.com/citations?user=gEx3iGUAAAAJ" target="_blank" rel="noopener">
+  <a href="https://scholar.google.com/citations?user=gEx3iGUAAAAJ"
+     target="_blank" rel="noopener" title="Google Scholar">
     <img src="/images/icons/scholar.svg" alt="Google Scholar">
   </a>
-  <a href="https://www.linkedin.com/in/esteban-gadea-906bb0246" target="_blank" rel="noopener">
+  <a href="https://www.linkedin.com/in/esteban-gadea-906bb0246"
+     target="_blank" rel="noopener" title="LinkedIn">
     <img src="/images/icons/linkedin.svg" alt="LinkedIn">
   </a>
-  <a href="https://github.com/estebangadea" target="_blank" rel="noopener">
+  <a href="https://github.com/estebangadea"
+     target="_blank" rel="noopener" title="GitHub">
     <img src="/images/icons/github.svg" alt="GitHub">
   </a>
-  <a href="https://orcid.org/0009-0009-9439-2335" target="_blank" rel="noopener">
+  <a href="https://orcid.org/0009-0009-9439-2335"
+     target="_blank" rel="noopener" title="ORCID">
     <img src="/images/icons/orcid.svg" alt="ORCID">
   </a>
 </div>
