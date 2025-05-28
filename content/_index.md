@@ -8,7 +8,9 @@ layout: "home"
 
 ## Esteban David Gadea  
 _Computational Physical Chemist_
+
 _Postdoctoral Fellow at the University of Utah_  
+
 _Proud member of the [Molinero Group](https://molinero.hec.utah.edu)_
 
 <div class="social-icons">
