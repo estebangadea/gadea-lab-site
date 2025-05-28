@@ -7,50 +7,47 @@ layout: "about"
 
 ## About Me {.section-heading}
 
-I'm **Esteban D. Gadea**, a postdoctoral researcher in the Molinero Group at the University of Utah. I specialize in **computational physical chemistry**, using multiscale simulation techniques to study chemical systems that span from the atomistic to the mesoscale.
+I'm **Esteban D. Gadea**, a postdoctoral researcher in the [<u>**Molinero Group**</u>](https://molinero.hec.utah.edu) at the University of Utah. I work in **computational physical chemistry**, using multiscale simulations to explore phenomena at the intersection of **electrochemistry**, **interfaces**, and **energy conversion**.
 
-My research focuses on problems in **electrochemistry and energy conversion**, such as:
-- The formation and stability of **nanobubbles** during gas-evolving reactions,
-- The use of **high entropy oxides** as electrocatalysts,
-- The role of membranes and interfaces in catalytic environments.
+My research centers on systems where gas evolution, material disorder, and reactive environments converge—such as:
+- The formation and stability of **nanobubbles**,
+- **High entropy oxides** as electrocatalysts, and
+- Membrane-catalyst interactions in electrochemical devices.
 
 ## My Path {.section-heading}
 
-I began my academic journey at the **Universidad Nacional de La Plata**, where I earned my chemistry degree. As an undergraduate, I conducted research at **CEQUINOR** under **Prof. Martín Lavecchia**, investigating the binding of sugar-based drugs to carbonic anhydrase using **molecular docking**, **molecular dynamics**, and **QTAIM** analysis.
+I began my scientific journey at the [<u>**Universidad Nacional de La Plata**</u>](https://unlp.edu.ar), where I earned my chemistry degree and worked with **Prof. Martín Lavecchia** at [<u>**CEQUINOR**</u>](https://cequinor.conicet.gov.ar). There, I studied drug binding on carbonic anhydrase using **docking**, **molecular dynamics**, and **QTAIM**—my first hands-on experience combining methods across scales.
 
-Although I no longer work with biomolecules, that project was a turning point. It sparked my interest in computational chemistry and showed me the power of combining methods across different theoretical scales—a theme that continues to guide my work today.
+That project sparked my passion for computational chemistry and the kinds of questions that require more than one theoretical lens.
+I pursued a Ph.D. in Physical Chemistry at the [<u>**University of Buenos Aires**</u>](https://www.uba.ar) under **Prof. Damian Scherlis**. As a graduate studen in [<u>**INQUIMAE**</u>](http://inquimae2.qi.fcen.uba.ar/institucional/), I focused on the thermodynamics and electrochemical nucleation of surface nanobubbles. I also began collaborations with groups in the U.S. and U.K., which helped shape my current interdisciplinary approach.
 
-I went on to complete my Ph.D. in Physical Chemistry at the **University of Buenos Aires**, focusing on the thermodynamics and electrochemical nucleation of surface nanobubbles. During this time, I began collaborations that led to joint publications with groups in the U.S. and U.K., further strengthening my interdisciplinary perspective.
-
-Since joining the University of Utah, I’ve expanded into **kinetic Monte Carlo methods**, coarse-grained molecular dynamics, and interface-aware transport models. My toolkit now blends thermodynamics, kinetics, and quantum chemistry into a flexible framework for exploring electrochemical systems.
+ince joining the [<u>**University of Utah**</u>](https://www.utah.edu), I've worked on **kinetic Monte Carlo**, **coarse-grained MD**, and **interface-aware electron-transfer** models. My current work blends **thermodynamics**, **kinetics**, and **quantum chemistry** to build models that are physically sound and computationally efficient.
 
 ## Philosophy {.section-heading}
 
-I see **computational chemistry as the art of building models** that are as simple as possible—never simpler. For me, the goal is to **distill complexity without oversimplifying**, capturing the essential physics and chemistry behind the phenomena.
+For me, computational chemistry is about building models that say something useful—clear enough to interpret, detailed enough to matter. I aim to **distill complexity without flattening it**.
 
-The tools I return to again and again are **thermodynamics**, **kinetics**, **statistical mechanics**, and **quantum chemistry**. These form my conceptual toolkit—my “weapons”—for approaching new questions.
+I rely on **thermodynamics**, **kinetics**, **statistical mechanics**, and **quantum chemistry**—not out of habit, but because they're the right tools to understand how things work across scales.
+I don’t stick to a method. I build what the question demands.
 
-Whether I’m simulating charge transport to nanoclusters or gas evolution on curved surfaces, I don’t adhere to a fixed set of methods. I **build whatever model it takes** to understand the problem at hand. If the question is interesting, I’ll do whatever’s needed to answer it.
-
-I also believe modeling is most powerful when it engages with experiment—not just explaining results post hoc, but offering predictions, clarifying mechanisms, and even revealing unexpected possibilities.
+I especially enjoy working with experimental collaborators—not just to explain what happened, but to ask better questions about what could.
 
 ## Teaching & Scientific Communication {.section-heading}
 
-I have always loved teaching. During my time in Argentina, I served for eight years as a teaching assistant in the Analytical Chemistry Department at the **Universidad Nacional de La Plata**. I was involved in electrochemical analysis courses across Pharmacy, Biochemistry, Chemistry, and Chemical Engineering programs.
+I spent eight years teaching in the Analytical Chemistry Department at the **Universidad Nacional de La Plata**, where I was involved in courses across Pharmacy, Biochemistry, Chemistry, and Chemical Engineering.
+That experience didn’t just strengthen my communication—it also deepened my interest in electrochemistry, which eventually shaped my research direction.
 
-That classroom experience didn't just improve my ability to communicate—it also deepened my interest in **electrochemistry**, which later shaped my research.
-
-I remain committed to scientific communication through writing, presenting, and mentoring. I'm currently part of the **Journal Club Panel for PNAS**, where early-career researchers highlight timely, cross-cutting science from the literature. The panel includes postdocs and PhD students affiliated with National Academy of Sciences member labs across a wide range of fields and institutions.
+Today, I remain committed to scientific communication through writing, presenting, and mentoring. I serve as a **Journal Club Panelist for PNAS**, where early-career scientists highlight timely research across fields.
 
 > 🔗 [View the PNAS Journal Club Panel](https://www.pnas.org/journal-club/journal-club-panelists)
 
 ## Looking Forward {.section-heading}
 
-My research is evolving toward a coherent niche: **multiscale modeling of electrochemical systems with energy applications**. I’m particularly excited about:
-- Mechanistic insights into emerging catalyst architectures (like high entropy oxides),
-- The subtle interplay between **gas evolution, confinement, and interfaces**, and
-- Extending simulations across **coupled scales and phenomena**.
+My research is converging around a clear niche: **multiscale modeling of electrochemical systems for energy applications**. I'm especially interested in:
+- Emerging catalyst architectures like **high entropy oxides**,
+- The interplay between **gas evolution, confinement, and interfaces**, and
+- Building models that couple physical processes across scales.
 
-Ultimately, I aim to build a research program that bridges physical chemistry, materials science, and computational modeling—to not only interpret experimental results, but to predict and guide them.
+My long-term goal is to establish a research program that bridges **physical chemistry**, **materials science**, and **simulation**, to not only interpret experiments—but to guide them.
 
 </div>
