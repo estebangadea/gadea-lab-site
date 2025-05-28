@@ -5,7 +5,7 @@ layout: "about"
 
 <div class="about-content">
 
-## About Me
+## About Me {.section-heading}
 
 I'm **Esteban D. Gadea**, a postdoctoral researcher in the Molinero Group at the University of Utah. I specialize in **computational physical chemistry**, using multiscale simulation techniques to study chemical systems that span from the atomistic to the mesoscale.
 
