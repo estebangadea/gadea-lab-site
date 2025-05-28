@@ -76,9 +76,10 @@ header.header {
   max-width: 720px;
   margin: 0 auto;
   padding: 0 1rem;
-  padding-top: 10rem;
+  padding-top: 20rem;
   font-size: 1.05rem;
-  line-height: 1.6;
+  line-height: 1.7;
+  word-break: break-word;
 }
 
 .about-content ul {
@@ -87,14 +88,6 @@ header.header {
   padding-left: 0;
 }
 
-.about-content {
-  max-width: 720px;
-  margin: 0 auto;
-  padding: 0 1.5rem;
-  font-size: 1.05rem;
-  line-height: 1.7;
-  word-break: break-word;
-}
 
 .about-content a {
   word-wrap: break-word;
