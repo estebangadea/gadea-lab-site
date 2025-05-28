@@ -1,11 +1,11 @@
 ---
-title: "About Me"
+title: ""
 layout: "about"
 ---
 
 <div class="about-content">
 
-## About Me {.section-heading}
+## About Me
 
 I'm **Esteban D. Gadea**, a postdoctoral researcher in the Molinero Group at the University of Utah. I specialize in **computational physical chemistry**, using multiscale simulation techniques to study chemical systems that span from the atomistic to the mesoscale.
 
