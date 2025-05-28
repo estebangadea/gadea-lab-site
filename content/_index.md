@@ -7,8 +7,9 @@ layout: "home"
 
 
 ## Esteban David Gadea  
-_Postdoctoral Fellow at the University of Utah_  
 _Computational Physical Chemist_
+_Postdoctoral Fellow at the University of Utah_  
+_Proud member of the [Molinero Group](https://molinero.hec.utah.edu)_
 
 <div class="social-icons">
   <a href="https://scholar.google.com/citations?user=gEx3iGUAAAAJ"
