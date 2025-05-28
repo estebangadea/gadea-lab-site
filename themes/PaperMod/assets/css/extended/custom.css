@@ -76,7 +76,7 @@ header.header {
   max-width: 720px;
   margin: 0 auto;
   padding: 0 1rem;
-  padding-top: 4rem;
+  padding-top: 10rem;
   font-size: 1.05rem;
   line-height: 1.6;
 }
@@ -90,15 +90,20 @@ header.header {
 .about-content {
   max-width: 720px;
   margin: 0 auto;
-  padding: 0 1rem;
+  padding: 0 1.5rem;
   font-size: 1.05rem;
-  line-height: 1.6;
+  line-height: 1.7;
   word-break: break-word;
 }
 
 .about-content a {
   word-wrap: break-word;
   overflow-wrap: break-word;
+}
+
+.section-heading {
+  margin-top: 3rem;
+  margin-bottom: 1rem;
 }
 
 @media screen and (max-width: 600px) {
