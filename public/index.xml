@@ -12,18 +12,22 @@
       <link>http://localhost:1313/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/about/</guid>
-      <description>&lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;
-&lt;h2 id=&#34;esteban-david-gadea&#34;&gt;Esteban David Gadea&lt;/h2&gt;
-&lt;p&gt;&lt;em&gt;Postdoctoral Fellow at the University of Utah&lt;/em&gt;&lt;br&gt;
-&lt;em&gt;Computational Physical Chemist&lt;/em&gt;&lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt;I am a computational physical chemist working on &lt;strong&gt;multiscale modeling of electrochemical interfaces&lt;/strong&gt; for energy applications. My work integrates atomistic simulations, kinetic Monte Carlo, and statistical mechanics to understand:&lt;/p&gt;
+      <description>&lt;div class=&#34;about-content&#34;&gt;
+&lt;h2 class=&#34;section-heading&#34; id=&#34;about-me&#34;&gt;About Me&lt;/h2&gt;
+&lt;p&gt;I&amp;rsquo;m &lt;strong&gt;Esteban D. Gadea&lt;/strong&gt;, a postdoctoral researcher in the &lt;a href=&#34;https://molinero.hec.utah.edu&#34;&gt;&lt;u&gt;&lt;strong&gt;Molinero Group&lt;/strong&gt;&lt;/u&gt;&lt;/a&gt; at the University of Utah. I work in &lt;strong&gt;computational physical chemistry&lt;/strong&gt;, using multiscale simulations to explore phenomena at the intersection of &lt;strong&gt;electrochemistry&lt;/strong&gt;, &lt;strong&gt;interfaces&lt;/strong&gt;, and &lt;strong&gt;energy conversion&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;My research centers on systems where gas evolution, material disorder, and reactive environments converge—such as:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Disordered catalysts&lt;/strong&gt; (e.g., high-entropy oxides)&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Nanobubble formation and gas evolution&lt;/strong&gt; in confined electrochemical environments&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Membrane and ionomer effects&lt;/strong&gt; on performance and degradation&lt;/li&gt;
+&lt;li&gt;The formation and stability of &lt;strong&gt;nanobubbles&lt;/strong&gt;,&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;High entropy oxides&lt;/strong&gt; as electrocatalysts, and&lt;/li&gt;
+&lt;li&gt;Membrane-catalyst interactions in electrochemical devices.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;The goal of my research is to connect molecular-level mechanisms to macroscopic behavior in electrocatalytic systems like water electrolysis and CO₂ reduction, contributing to the design of more efficient and durable energy devices.&lt;/p&gt;</description>
+&lt;h2 class=&#34;section-heading&#34;&gt;My Path&lt;/h2&gt;
+&lt;div class=&#34;timeline&#34;&gt;
+  &lt;div class=&#34;timeline-item&#34;&gt;
+    &lt;div class=&#34;timeline-date&#34;&gt;2012–2018&lt;/div&gt;
+    &lt;div class=&#34;timeline-content&#34;&gt;
+      &lt;p&gt;&lt;strong&gt;Chemistry Degree – &lt;a href=&#34;https://unlp.edu.ar&#34;&gt;Universidad Nacional de La Plata&lt;/a&gt;&lt;/strong&gt;&lt;br&gt;
+      During my undergrad, I worked with Prof. Martín Lavecchia at &lt;a href=&#34;https://cequinor.conicet.gov.ar&#34;&gt;CEQUINOR&lt;/a&gt; on drug binding to carbonic anhydrase using docking, MD, and QTAIM. This was my first experience combining multiscale methods, and it hooked me for good.&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>

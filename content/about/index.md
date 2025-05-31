@@ -14,23 +14,54 @@ My research centers on systems where gas evolution, material disorder, and react
 - **High entropy oxides** as electrocatalysts, and
 - Membrane-catalyst interactions in electrochemical devices.
 
-## My Path {.section-heading}
+<h2 class="section-heading">My Path</h2>
 
-I began my scientific journey at the [<u>**Universidad Nacional de La Plata**</u>](https://unlp.edu.ar), where I earned my chemistry degree and worked with **Prof. Martín Lavecchia** at [<u>**CEQUINOR**</u>](https://cequinor.conicet.gov.ar). There, I studied drug binding on carbonic anhydrase using **docking**, **molecular dynamics**, and **QTAIM**—my first hands-on experience combining methods across scales.
+<div class="timeline">
 
-That project sparked my passion for computational chemistry and the kinds of questions that require more than one theoretical lens.
-I pursued a Ph.D. in Physical Chemistry at the [<u>**University of Buenos Aires**</u>](https://www.uba.ar) under **Prof. Damian Scherlis**. As a graduate student at [<u>**INQUIMAE**</u>](http://inquimae2.qi.fcen.uba.ar/institucional/), I focused on the thermodynamics and electrochemical nucleation of surface nanobubbles. I also began collaborations with groups in the U.S. and U.K., which helped shape my current interdisciplinary approach.
+  <div class="timeline-item">
+    <div class="timeline-date">2012–2018</div>
+    <div class="timeline-content">
+      <p><strong>Chemistry Degree – <a href="https://unlp.edu.ar">Universidad Nacional de La Plata</a></strong><br>
+      During my undergrad, I worked with Prof. Martín Lavecchia at <a href="https://cequinor.conicet.gov.ar">CEQUINOR</a> on drug binding to carbonic anhydrase using docking, MD, and QTAIM. This was my first experience combining multiscale methods, and it hooked me for good.</p>
+    </div>
+  </div>
 
-ince joining the [<u>**University of Utah**</u>](https://www.utah.edu), I've worked on **kinetic Monte Carlo**, **coarse-grained MD**, and **interface-aware electron-transfer** models. My current work blends **thermodynamics**, **kinetics**, and **quantum chemistry** to build models that are physically sound and computationally efficient.
+  <div class="timeline-item">
+    <div class="timeline-date">2018–2023</div>
+    <div class="timeline-content">
+      <p><strong>Ph.D. in Physical Chemistry – <a href="https://www.uba.ar">Universidad de Buenos Aires</a></strong><br>
+      I joined Prof. Damian Scherlis' group to study the thermodynamics and nucleation of surface nanobubbles in electrochemical systems at <a href="http://inquimae2.qi.fcen.uba.ar/institucional/">INQUIMAE</a>. I also began international collaborations on electron dynamics and light-matter interactions that shaped my interdisciplinary approach.</p>
+    </div>
+  </div>
+
+  <div class="timeline-item">
+    <div class="timeline-date">2024–Present</div>
+    <div class="timeline-content">
+      <p><strong>Postdoc – <a href="https://www.utah.edu">University of Utah</a>, Molinero Group</strong><br>
+      Here I work on kinetic Monte Carlo, coarse-grained MD, and interface-aware electron-transfer models, integrating thermodynamics, kinetics, and quantum chemistry to study electrochemical phenomena.</p>
+    </div>
+  </div>
+
+</div>
 
 ## Philosophy {.section-heading}
 
 For me, computational chemistry is about building models that say something useful—clear enough to interpret, detailed enough to matter. I aim to **distill complexity without flattening it**.
 
 I rely on **thermodynamics**, **kinetics**, **statistical mechanics**, and **quantum chemistry**—not out of habit, but because they're the right tools to understand how things work across scales.
-I don’t stick to a method. I build what the question demands.
+
+<blockquote class="pullquote">
+  “I refine what exists and imagine what’s missing—until the model carries the weight of the question.”
+</blockquote>
 
 I especially enjoy working with experimental collaborators—not just to explain what happened, but to ask better questions about what could.
+
+<div class="image-highlight">
+  <img src="/images/Nanobubbles-current.png" alt="Nanobubble near electrochemical interface">
+  <p class="caption">
+    A confined nanobubble at steady state—emerging from the interplay of chemical driving forces, non-equilibrium dynamics, and nanoscale phase transitions.
+  </p>
+</div>
 
 ## Teaching & Scientific Communication {.section-heading}
 
